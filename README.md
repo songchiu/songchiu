@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @songchiu
 - 👀 I’m interested in Computer Science, Information Management
-- 🌱 I’m currently learning Laravel, Tensorflow, Flutter
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Google Development Student Club
 - 📫 How to reach me ??!
 
